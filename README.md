@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-JiaRongTsai-4267B2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/jiarongtsaiBella/)](https://www.facebook.com/jiarongtsaiBella/)
 [![Medium Badge](https://img.shields.io/badge/-@jiarongtsai19-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jiarongtsai19)](https://medium.com/@jiarongtsai19)
 
-A creative Front-End developer with designer's eyes, and always eager to learn new technologies.✨
+A creative Front-End developer with designer eyes, always eager to learn new technologies.✨
 
 ### Currently Code with
 
